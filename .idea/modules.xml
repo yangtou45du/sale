@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/autoTest/AutoTest/Sale/interface/.idea/interface.iml" filepath="D:/autoTest/AutoTest/Sale/interface/.idea/interface.iml" />
+      <module fileurl="file://D:/autoTest/interface/.idea/interface.iml" filepath="D:/autoTest/interface/.idea/interface.iml" />
+      <module fileurl="file://D:/autoTest/AutoTest/Sale3.0/interface/common/py_keyword/.idea/py_keyword.iml" filepath="D:/autoTest/AutoTest/Sale3.0/interface/common/py_keyword/.idea/py_keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sale.iml" filepath="$PROJECT_DIR$/.idea/sale.iml" />
+    </modules>
+  </component>
+</project>

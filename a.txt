@@ -1,0 +1,979 @@
+{
+    "code": "200",
+    "bizCode": "xc10000",
+    "msg": "«Î«Û≥…π¶",
+    "status": true,
+    "data": {
+        "city": 530100,
+        "type": "001",
+        "beginTime": "2019-02-23",
+        "endTime": "2019-02-25",
+        "queryResult": [
+            {
+                "premiseId": "42486",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-D05-012,KMB-D05-008,KMB-D05-007,KMB-D05-009,KMB-D05-011,KMB-D05-010"
+            },
+            {
+                "premiseId": "42488",
+                "canDeviceNum": 2,
+                "canCodes": "KMB-B03-067,KMB-B03-068"
+            },
+            {
+                "premiseId": "42483",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-D04-089,KMB-D04-092,KMB-D04-091,KMB-D04-090,KMB-D04-093"
+            },
+            {
+                "premiseId": "42484",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-D04-098,KMB-D04-097,KMB-D05-002,KMB-D05-001,KMB-D05-004,KMB-D05-003,KMB-D04-096,KMB-D04-095,KMB-D05-006,KMB-D04-094,KMB-D05-005,KMB-D04-099"
+            },
+            {
+                "premiseId": "42485",
+                "canDeviceNum": 3,
+                "canCodes": "KMB-B03-064,KMB-B03-065,KMB-B03-066"
+            },
+            {
+                "premiseId": "42923",
+                "canDeviceNum": 40,
+                "canCodes": "KMB-F06-004,KMB-F06-003,KMB-F06-002,KMB-F06-008,KMB-F06-007,KMB-F06-006,KMB-F06-001,KMB-F06-005,KMB-F05-084,KMB-F05-083,KMB-F05-086,KMB-F05-085,KMB-F05-080,KMB-F05-092,KMB-F05-082,KMB-F06-017,KMB-F05-081,KMB-F05-099,KMB-F06-012,KMB-F05-098,KMB-F05-077,KMB-F05-079,KMB-F06-011,KMB-F05-088,KMB-F05-078,KMB-F06-010,KMB-F06-016,KMB-F05-087,KMB-F05-089,KMB-F05-095,KMB-F06-015,KMB-F05-094,KMB-F05-097,KMB-F06-014,KMB-F06-013,KMB-F05-096,KMB-F05-091,KMB-F05-090,KMB-F05-093,KMB-F06-009"
+            },
+            {
+                "premiseId": "42920",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-F05-059,KMB-F05-058,KMB-F05-055,KMB-F05-054,KMB-F05-057,KMB-F05-060,KMB-F05-053,KMB-F05-056,KMB-F05-062,KMB-F05-061,KMB-F05-064,KMB-F05-063"
+            },
+            {
+                "premiseId": "42919",
+                "canDeviceNum": 46,
+                "canCodes": "KMB-F05-021,KMB-F05-024,KMB-F05-023,KMB-F05-031,KMB-F05-030,KMB-F05-026,KMB-F05-025,KMB-F05-028,KMB-F05-027,KMB-F05-022,KMB-F05-011,KMB-F05-010,KMB-F05-013,KMB-F05-012,KMB-F05-034,KMB-F05-020,KMB-F05-018,KMB-F05-015,KMB-F05-040,KMB-F05-014,KMB-F05-017,KMB-F05-016,KMB-F05-039,KMB-F05-042,KMB-F05-038,KMB-F05-041,KMB-F05-033,KMB-F05-032,KMB-F05-035,KMB-F05-008,KMB-F05-047,KMB-F05-029,KMB-F05-007,KMB-F05-049,KMB-F05-045,KMB-F05-051,KMB-F05-009,KMB-F05-044,KMB-F05-043,KMB-F05-050,KMB-F05-037,KMB-F05-046,KMB-F05-052,KMB-F05-019,KMB-F05-036,KMB-F05-048"
+            },
+            {
+                "premiseId": "42476",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-C03-048,KMB-C03-046,KMB-C03-042,KMB-C03-043,KMB-C03-040,KMB-C03-041,KMB-C03-047,KMB-C03-044,KMB-C03-045,KMB-C03-039,KMB-C03-037,KMB-C03-038"
+            },
+            {
+                "premiseId": "42477",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-C03-008,KMB-C03-009,KMB-C03-007,KMB-C03-010"
+            },
+            {
+                "premiseId": "42478",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-C03-023,KMB-C03-020,KMB-C03-021,KMB-C03-019,KMB-C03-013,KMB-C03-014,KMB-C03-011,KMB-C03-018,KMB-C03-015,KMB-C03-016,KMB-C03-012,KMB-C03-022"
+            },
+            {
+                "premiseId": "42472",
+                "canDeviceNum": 30,
+                "canCodes": "KMB-D01-078,KMB-D01-096,KMB-D01-094,KMB-D01-095,KMB-D01-085,KMB-D01-081,KMB-D01-082,KMB-D01-097,KMB-D01-098,KMB-D01-099,KMB-D01-086,KMB-D01-079,KMB-D02-003,KMB-D02-002,KMB-D01-083,KMB-D01-090,KMB-D01-087,KMB-D02-001,KMB-D02-004,KMB-D01-084,KMB-D01-091,KMB-D01-088,KMB-D01-089,KMB-D01-080,KMB-D01-074,KMB-D01-075,KMB-D01-092,KMB-D01-093,KMB-D01-076,KMB-D01-077"
+            },
+            {
+                "premiseId": "42473",
+                "canDeviceNum": 13,
+                "canCodes": "KMB-C03-035,KMB-C03-036,KMB-C03-033,KMB-C03-029,KMB-C03-026,KMB-C03-027,KMB-C03-034,KMB-C03-031,KMB-C03-032,KMB-C03-030,KMB-C03-024,KMB-C03-028,KMB-C03-025"
+            },
+            {
+                "premiseId": "42914",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-D17-045,KMB-D17-048,KMB-D17-042,KMB-D17-043,KMB-D17-040,KMB-D17-046,KMB-D17-047,KMB-D17-041,KMB-D17-039,KMB-D17-037,KMB-D17-038"
+            },
+            {
+                "premiseId": "42915",
+                "canDeviceNum": 14,
+                "canCodes": "KMB-D17-053,KMB-D17-054,KMB-D17-051,KMB-D17-052,KMB-D17-049,KMB-D17-060,KMB-D17-061,KMB-D17-062,KMB-D17-050,KMB-D17-057,KMB-D17-058,KMB-D17-055,KMB-D17-056,KMB-D17-059"
+            },
+            {
+                "premiseId": "42910",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-D17-079,KMB-D17-077,KMB-D17-078,KMB-D17-075,KMB-D17-076,KMB-D17-074,KMB-D17-082,KMB-D17-083,KMB-D17-080,KMB-D17-081,KMB-D17-084"
+            },
+            {
+                "premiseId": "42909",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-F06-063,KMB-F06-059,KMB-F06-062,KMB-F06-064,KMB-F06-061,KMB-F06-060"
+            },
+            {
+                "premiseId": "42908",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-F06-057,KMB-F06-056,KMB-F06-055,KMB-F06-058"
+            },
+            {
+                "premiseId": "42464",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-D06-087,KMB-D06-086,KMB-D06-089,KMB-D06-088"
+            },
+            {
+                "premiseId": "42461",
+                "canDeviceNum": 16,
+                "canCodes": "KMB-D04-035,KMB-D04-039,KMB-D04-040,KMB-D04-045,KMB-D04-030,KMB-D04-034,KMB-D04-033,KMB-D04-032,KMB-D04-031,KMB-D04-041,KMB-D04-044,KMB-D04-043,KMB-D04-042,KMB-D04-038,KMB-D04-037,KMB-D04-036"
+            },
+            {
+                "premiseId": "42582",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-A07-041,KMB-A07-044,KMB-A07-045,KMB-A07-042,KMB-A07-043,KMB-A07-038,KMB-A07-039,KMB-A07-040"
+            },
+            {
+                "premiseId": "42584",
+                "canDeviceNum": 41,
+                "canCodes": "KMB-E03-038,KMB-E03-037,KMB-E03-036,KMB-E03-035,KMB-E03-039,KMB-E03-041,KMB-E03-040,KMB-E03-045,KMB-E03-044,KMB-E03-043,KMB-E03-051,KMB-E03-042,KMB-E03-050,KMB-E03-056,KMB-E03-027,KMB-E03-055,KMB-E03-026,KMB-E03-054,KMB-E03-025,KMB-E03-053,KMB-E03-023,KMB-E03-057,KMB-E03-061,KMB-E03-060,KMB-E03-028,KMB-E03-030,KMB-E03-034,KMB-E03-033,KMB-E03-024,KMB-E03-022,KMB-E03-049,KMB-E03-032,KMB-E03-029,KMB-E03-021,KMB-E03-048,KMB-E03-031,KMB-E03-047,KMB-E03-059,KMB-E03-058,KMB-E03-046,KMB-E03-052"
+            },
+            {
+                "premiseId": "42902",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-A13-009,KMB-A13-008,KMB-A13-017,KMB-A13-016,KMB-A13-015,KMB-A13-014,KMB-A13-013,KMB-A13-012,KMB-A13-011,KMB-A13-010,KMB-A13-019,KMB-A13-018"
+            },
+            {
+                "premiseId": "42903",
+                "canDeviceNum": 18,
+                "canCodes": "KMB-F06-031,KMB-F06-035,KMB-F06-030,KMB-F06-026,KMB-F06-025,KMB-F06-029,KMB-F06-023,KMB-F06-022,KMB-F06-024,KMB-F06-028,KMB-F06-019,KMB-F06-018,KMB-F06-034,KMB-F06-033,KMB-F06-021,KMB-F06-020,KMB-F06-027,KMB-F06-032"
+            },
+            {
+                "premiseId": "42904",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-F06-040,KMB-F06-039,KMB-F06-038,KMB-F06-037"
+            },
+            {
+                "premiseId": "42468",
+                "canDeviceNum": 2,
+                "canCodes": "KMB-B02-071,KMB-B02-072"
+            },
+            {
+                "premiseId": "42580",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-A06-046,KMB-A06-047,KMB-A06-048,KMB-A06-049"
+            },
+            {
+                "premiseId": "42574",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-A07-014,KMB-A07-017,KMB-A07-018,KMB-A07-022,KMB-A07-006,KMB-A07-023,KMB-A07-007,KMB-A07-020,KMB-A07-011,KMB-A07-021,KMB-A07-012,KMB-A07-010,KMB-A07-026,KMB-A07-024,KMB-A07-015,KMB-A07-016,KMB-A07-025,KMB-A07-013,KMB-A07-028,KMB-A07-029,KMB-A07-008,KMB-A07-009"
+            },
+            {
+                "premiseId": "42576",
+                "canDeviceNum": 35,
+                "canCodes": "KMB-C04-005,KMB-C04-006,KMB-C04-030,KMB-C04-023,KMB-C04-024,KMB-C04-020,KMB-C04-010,KMB-C04-011,KMB-C04-031,KMB-C04-012,KMB-C04-018,KMB-C04-019,KMB-C04-007,KMB-C04-008,KMB-C04-009,KMB-C04-013,KMB-C04-001,KMB-C04-014,KMB-C04-003,KMB-C04-004,KMB-C04-002,KMB-C04-015,KMB-C04-016,KMB-C03-099,KMB-C04-017,KMB-C04-029,KMB-C04-025,KMB-C04-026,KMB-C04-021,KMB-C04-027,KMB-C04-022,KMB-C04-028,KMB-C04-032,KMB-C04-033,KMB-C04-034"
+            },
+            {
+                "premiseId": "42570",
+                "canDeviceNum": 7,
+                "canCodes": "KMB-B06-011,KMB-B06-012,KMB-B06-010,KMB-B06-015,KMB-B06-016,KMB-B06-013,KMB-B06-014"
+            },
+            {
+                "premiseId": "42571",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-E03-003,KMB-E03-002,KMB-E03-008,KMB-E03-007,KMB-E02-099,KMB-E02-098,KMB-E03-001,KMB-E03-005,KMB-E03-006,KMB-E03-004"
+            },
+            {
+                "premiseId": "42572",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-E03-010,KMB-E03-013,KMB-E03-019,KMB-E03-018,KMB-E03-016,KMB-E03-017,KMB-E03-015,KMB-E03-014,KMB-E03-020,KMB-E03-009,KMB-E03-012,KMB-E03-011"
+            },
+            {
+                "premiseId": "42458",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-C02-088,KMB-C03-005,KMB-C02-094,KMB-C02-089,KMB-C03-002,KMB-C03-003,KMB-C03-001,KMB-C02-090,KMB-C02-095,KMB-C02-096,KMB-C02-097,KMB-C02-098,KMB-C02-099,KMB-C02-091,KMB-C02-092,KMB-C02-093,KMB-C02-086,KMB-C02-087,KMB-C03-006,KMB-C03-004"
+            },
+            {
+                "premiseId": "42579",
+                "canDeviceNum": 7,
+                "canCodes": "KMB-A07-048,KMB-A07-049,KMB-A07-046,KMB-A07-050,KMB-A07-047,KMB-A07-051,KMB-A07-052"
+            },
+            {
+                "premiseId": "42564",
+                "canDeviceNum": 25,
+                "canCodes": "KMB-B05-060,KMB-B05-061,KMB-B05-062,KMB-B05-063,KMB-B05-064,KMB-B05-058,KMB-B05-057,KMB-B05-050,KMB-B05-059,KMB-B05-044,KMB-B05-045,KMB-B05-051,KMB-B05-043,KMB-B05-046,KMB-B05-040,KMB-B05-041,KMB-B05-042,KMB-B05-052,KMB-B05-053,KMB-B05-047,KMB-B05-054,KMB-B05-055,KMB-B05-048,KMB-B05-049,KMB-B05-056"
+            },
+            {
+                "premiseId": "42560",
+                "canDeviceNum": 19,
+                "canCodes": "KMB-B04-070,KMB-B04-082,KMB-B04-079,KMB-B04-077,KMB-B04-068,KMB-B04-083,KMB-B04-078,KMB-B04-069,KMB-B04-080,KMB-B04-081,KMB-B04-075,KMB-B04-076,KMB-B04-073,KMB-B04-074,KMB-B04-066,KMB-B04-084,KMB-B04-067,KMB-B04-071,KMB-B04-072"
+            },
+            {
+                "premiseId": "42567",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-D06-095,KMB-D06-094,KMB-D06-093,KMB-D06-092,KMB-D06-091,KMB-D06-097,KMB-D06-096,KMB-D06-090"
+            },
+            {
+                "premiseId": "42568",
+                "canDeviceNum": 29,
+                "canCodes": "KMB-D07-008,KMB-D07-007,KMB-D07-009,KMB-D07-004,KMB-D07-003,KMB-D07-006,KMB-D07-005,KMB-D07-002,KMB-D07-001,KMB-D07-027,KMB-D07-015,KMB-D06-099,KMB-D07-022,KMB-D07-014,KMB-D07-026,KMB-D07-025,KMB-D06-098,KMB-D07-021,KMB-D07-017,KMB-D07-024,KMB-D07-016,KMB-D07-023,KMB-D07-011,KMB-D07-020,KMB-D07-019,KMB-D07-010,KMB-D07-018,KMB-D07-013,KMB-D07-012"
+            },
+            {
+                "premiseId": "42569",
+                "canDeviceNum": 9,
+                "canCodes": "KMB-C04-051,KMB-C04-052,KMB-C04-053,KMB-C04-046,KMB-C04-047,KMB-C04-048,KMB-C04-049,KMB-C04-054,KMB-C04-050"
+            },
+            {
+                "premiseId": "42552",
+                "canDeviceNum": 3,
+                "canCodes": "KMB-A07-035,KMB-A07-036,KMB-A07-037"
+            },
+            {
+                "premiseId": "42553",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-B06-007,KMB-B06-001,KMB-B05-098,KMB-B05-099,KMB-B05-097,KMB-B06-004,KMB-B06-005,KMB-B06-002,KMB-B06-003,KMB-B06-009,KMB-B06-006"
+            },
+            {
+                "premiseId": "42554",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-C04-036,KMB-C04-039,KMB-C04-043,KMB-C04-037,KMB-C04-044,KMB-C04-045,KMB-C04-038,KMB-C04-040,KMB-C04-041,KMB-C04-042,KMB-C04-035"
+            },
+            {
+                "premiseId": "42434",
+                "canDeviceNum": 19,
+                "canCodes": "KMB-B01-073,KMB-B01-074,KMB-B01-075,KMB-B01-070,KMB-B01-066,KMB-B01-076,KMB-B01-071,KMB-B01-080,KMB-B01-069,KMB-B01-067,KMB-B01-077,KMB-B01-078,KMB-B01-065,KMB-B01-068,KMB-B01-062,KMB-B01-063,KMB-B01-064,KMB-B01-079,KMB-B01-072"
+            },
+            {
+                "premiseId": "42555",
+                "canDeviceNum": 23,
+                "canCodes": "KMB-A06-092,KMB-A06-093,KMB-A07-004,KMB-A07-005,KMB-A07-002,KMB-A07-003,KMB-A07-001,KMB-A06-098,KMB-A06-099,KMB-A06-094,KMB-A06-087,KMB-A06-088,KMB-A06-089,KMB-A06-083,KMB-A06-095,KMB-A06-096,KMB-A06-084,KMB-A06-097,KMB-A06-090,KMB-A06-091,KMB-A06-085,KMB-A06-086,KMB-A06-082"
+            },
+            {
+                "premiseId": "42551",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-B05-090,KMB-B05-091,KMB-B05-087,KMB-B05-088,KMB-B05-089"
+            },
+            {
+                "premiseId": "42557",
+                "canDeviceNum": 48,
+                "canCodes": "KMB-B04-049,KMB-B04-050,KMB-B04-053,KMB-B04-054,KMB-B04-051,KMB-B04-052,KMB-B04-008,KMB-B04-009,KMB-B04-007,KMB-B04-013,KMB-B04-014,KMB-B04-011,KMB-B04-012,KMB-B04-010,KMB-B04-019,KMB-B04-017,KMB-B04-021,KMB-B04-028,KMB-B04-018,KMB-B04-048,KMB-B04-034,KMB-B04-029,KMB-B04-026,KMB-B04-015,KMB-B04-016,KMB-B04-031,KMB-B04-032,KMB-B04-027,KMB-B04-024,KMB-B04-047,KMB-B04-044,KMB-B04-030,KMB-B04-039,KMB-B04-035,KMB-B04-025,KMB-B04-045,KMB-B04-037,KMB-B04-038,KMB-B04-046,KMB-B04-036,KMB-B04-022,KMB-B04-033,KMB-B04-042,KMB-B04-023,KMB-B04-043,KMB-B04-020,KMB-B04-040,KMB-B04-041"
+            },
+            {
+                "premiseId": "42559",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-B04-062,KMB-B04-063,KMB-B04-058,KMB-B04-055,KMB-B04-056,KMB-B04-059,KMB-B04-060,KMB-B04-061,KMB-B04-064,KMB-B04-065,KMB-B04-057"
+            },
+            {
+                "premiseId": "42420",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-D02-065,KMB-D02-064,KMB-D02-063,KMB-D02-082,KMB-D02-081,KMB-D02-080,KMB-D02-072,KMB-D02-071,KMB-D02-070,KMB-D02-079,KMB-D02-078,KMB-D02-077,KMB-D02-076,KMB-D02-075,KMB-D02-074,KMB-D02-073,KMB-D02-069,KMB-D02-068,KMB-D02-067,KMB-D02-066"
+            },
+            {
+                "premiseId": "42783",
+                "canDeviceNum": 48,
+                "canCodes": "KMB-D08-098,KMB-D08-097,KMB-D09-006,KMB-D08-092,KMB-D08-091,KMB-D09-005,KMB-D09-001,KMB-D08-090,KMB-D08-096,KMB-D09-008,KMB-D09-030,KMB-D09-033,KMB-D09-004,KMB-D09-003,KMB-D08-095,KMB-D09-007,KMB-D09-009,KMB-D09-002,KMB-D09-032,KMB-D09-035,KMB-D09-034,KMB-D09-017,KMB-D08-094,KMB-D08-093,KMB-D08-099,KMB-D09-016,KMB-D09-019,KMB-D09-018,KMB-D09-020,KMB-D09-011,KMB-D08-089,KMB-D08-088,KMB-D09-022,KMB-D09-021,KMB-D09-024,KMB-D09-010,KMB-D09-013,KMB-D08-087,KMB-D09-023,KMB-D09-012,KMB-D09-026,KMB-D09-015,KMB-D09-025,KMB-D09-014,KMB-D09-028,KMB-D09-027,KMB-D09-031,KMB-D09-029"
+            },
+            {
+                "premiseId": "42541",
+                "canDeviceNum": 30,
+                "canCodes": "KMB-C03-075,KMB-C03-076,KMB-C03-073,KMB-C03-074,KMB-C03-071,KMB-C03-072,KMB-C03-070,KMB-C03-084,KMB-C03-062,KMB-C03-063,KMB-C03-060,KMB-C03-061,KMB-C03-082,KMB-C03-083,KMB-C03-059,KMB-C03-079,KMB-C03-077,KMB-C03-080,KMB-C03-055,KMB-C03-056,KMB-C03-068,KMB-C03-069,KMB-C03-078,KMB-C03-081,KMB-C03-066,KMB-C03-067,KMB-C03-064,KMB-C03-065,KMB-C03-057,KMB-C03-058"
+            },
+            {
+                "premiseId": "42421",
+                "canDeviceNum": 17,
+                "canCodes": "KMB-C02-077,KMB-C02-069,KMB-C02-078,KMB-C02-085,KMB-C02-079,KMB-C02-070,KMB-C02-080,KMB-C02-081,KMB-C02-071,KMB-C02-082,KMB-C02-083,KMB-C02-084,KMB-C02-072,KMB-C02-073,KMB-C02-074,KMB-C02-075,KMB-C02-076"
+            },
+            {
+                "premiseId": "42784",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-D09-040,KMB-D09-039,KMB-D09-038,KMB-D09-037,KMB-D09-036"
+            },
+            {
+                "premiseId": "42542",
+                "canDeviceNum": 16,
+                "canCodes": "KMB-D05-027,KMB-D05-029,KMB-D05-031,KMB-D05-032,KMB-D05-013,KMB-D05-015,KMB-D05-014,KMB-D05-019,KMB-D05-018,KMB-D05-020,KMB-D05-021,KMB-D05-016,KMB-D05-024,KMB-D05-023,KMB-D05-026,KMB-D05-028"
+            },
+            {
+                "premiseId": "42422",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-C01-019,KMB-C01-022,KMB-C01-023,KMB-C01-020,KMB-C01-021,KMB-C01-024"
+            },
+            {
+                "premiseId": "42543",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-D05-039,KMB-D05-038,KMB-D05-040,KMB-D05-042,KMB-D05-041,KMB-D05-033,KMB-D05-035,KMB-D05-034,KMB-D05-037,KMB-D05-036"
+            },
+            {
+                "premiseId": "42423",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-C01-016,KMB-C01-014,KMB-C01-017,KMB-C01-015"
+            },
+            {
+                "premiseId": "42544",
+                "canDeviceNum": 14,
+                "canCodes": "KMB-D05-056,KMB-D05-059,KMB-D05-044,KMB-D05-058,KMB-D05-046,KMB-D05-050,KMB-D05-057,KMB-D05-045,KMB-D05-048,KMB-D05-053,KMB-D05-047,KMB-D05-055,KMB-D05-049,KMB-D05-054"
+            },
+            {
+                "premiseId": "42780",
+                "canDeviceNum": 14,
+                "canCodes": "KMB-A13-007,KMB-A12-098,KMB-A12-097,KMB-A13-006,KMB-A13-005,KMB-A13-004,KMB-A13-003,KMB-A12-099,KMB-A13-002,KMB-A13-001,KMB-A12-094,KMB-A12-093,KMB-A12-096,KMB-A12-095"
+            },
+            {
+                "premiseId": "42781",
+                "canDeviceNum": 62,
+                "canCodes": "KMB-E05-057,KMB-E05-056,KMB-E05-068,KMB-E05-055,KMB-E05-035,KMB-E05-034,KMB-E05-033,KMB-E05-043,KMB-E05-042,KMB-E05-041,KMB-E05-040,KMB-E05-069,KMB-E05-067,KMB-E05-065,KMB-E05-022,KMB-E05-044,KMB-E05-066,KMB-E05-064,KMB-E05-018,KMB-E05-060,KMB-E05-029,KMB-E05-028,KMB-E05-032,KMB-E05-054,KMB-E05-053,KMB-E05-073,KMB-E05-072,KMB-E05-071,KMB-E05-070,KMB-E05-063,KMB-E05-062,KMB-E05-061,KMB-E05-017,KMB-E05-016,KMB-E05-027,KMB-E05-031,KMB-E05-052,KMB-E05-015,KMB-E05-026,KMB-E05-030,KMB-E05-039,KMB-E05-051,KMB-E05-014,KMB-E05-013,KMB-E05-012,KMB-E05-019,KMB-E05-025,KMB-E05-038,KMB-E05-037,KMB-E05-050,KMB-E05-021,KMB-E05-024,KMB-E05-036,KMB-E05-059,KMB-E05-058,KMB-E05-020,KMB-E05-049,KMB-E05-023,KMB-E05-048,KMB-E05-047,KMB-E05-046,KMB-E05-045"
+            },
+            {
+                "premiseId": "42782",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-E05-088,KMB-E05-090,KMB-E05-095,KMB-E05-094,KMB-E05-093,KMB-E05-092,KMB-E05-091,KMB-E05-075,KMB-E05-074,KMB-E05-076,KMB-E05-079,KMB-E05-078,KMB-E05-077,KMB-E05-084,KMB-E05-083,KMB-E05-082,KMB-E05-087,KMB-E05-086,KMB-E05-089,KMB-E05-081,KMB-E05-085,KMB-E05-080"
+            },
+            {
+                "premiseId": "42540",
+                "canDeviceNum": 38,
+                "canCodes": "KMB-E02-097,KMB-E02-096,KMB-E02-091,KMB-E02-090,KMB-E02-083,KMB-E02-074,KMB-E02-071,KMB-E02-070,KMB-E02-069,KMB-E02-093,KMB-E02-066,KMB-E02-086,KMB-E02-085,KMB-E02-088,KMB-E02-060,KMB-E02-077,KMB-E02-092,KMB-E02-065,KMB-E02-080,KMB-E02-082,KMB-E02-087,KMB-E02-089,KMB-E02-084,KMB-E02-076,KMB-E02-068,KMB-E02-067,KMB-E02-062,KMB-E02-081,KMB-E02-095,KMB-E02-094,KMB-E02-079,KMB-E02-061,KMB-E02-078,KMB-E02-064,KMB-E02-073,KMB-E02-072,KMB-E02-075,KMB-E02-063"
+            },
+            {
+                "premiseId": "42549",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-B05-074,KMB-B05-070,KMB-B05-071,KMB-B05-076,KMB-B05-085,KMB-B05-086,KMB-B05-075,KMB-B05-077,KMB-B05-069,KMB-B05-078,KMB-B05-080,KMB-B05-065,KMB-B05-066,KMB-B05-067,KMB-B05-079,KMB-B05-081,KMB-B05-068,KMB-B05-072,KMB-B05-082,KMB-B05-073,KMB-B05-083,KMB-B05-084"
+            },
+            {
+                "premiseId": "42424",
+                "canDeviceNum": 33,
+                "canCodes": "KMB-B02-048,KMB-B02-046,KMB-B02-047,KMB-B02-040,KMB-B02-041,KMB-B02-027,KMB-B02-028,KMB-B02-034,KMB-B02-024,KMB-B02-025,KMB-B02-031,KMB-B02-016,KMB-B02-039,KMB-B02-044,KMB-B02-019,KMB-B02-045,KMB-B02-042,KMB-B02-029,KMB-B02-033,KMB-B02-032,KMB-B02-037,KMB-B02-017,KMB-B02-018,KMB-B02-043,KMB-B02-038,KMB-B02-035,KMB-B02-022,KMB-B02-036,KMB-B02-030,KMB-B02-023,KMB-B02-020,KMB-B02-021,KMB-B02-026"
+            },
+            {
+                "premiseId": "42787",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-C05-023,KMB-C05-022,KMB-C05-021,KMB-C05-020,KMB-C05-019"
+            },
+            {
+                "premiseId": "42545",
+                "canDeviceNum": 13,
+                "canCodes": "KMB-D05-065,KMB-D05-073,KMB-D05-072,KMB-D05-075,KMB-D05-074,KMB-D05-062,KMB-D05-064,KMB-D05-063,KMB-D05-066,KMB-D05-068,KMB-D05-069,KMB-D05-071,KMB-D05-070"
+            },
+            {
+                "premiseId": "42425",
+                "canDeviceNum": 34,
+                "canCodes": "KMB-B01-095,KMB-B02-014,KMB-B02-001,KMB-B02-009,KMB-B01-084,KMB-B01-096,KMB-B01-097,KMB-B02-004,KMB-B01-090,KMB-B02-005,KMB-B01-085,KMB-B01-087,KMB-B02-006,KMB-B01-091,KMB-B02-002,KMB-B01-092,KMB-B02-003,KMB-B01-086,KMB-B01-088,KMB-B02-007,KMB-B01-093,KMB-B01-081,KMB-B01-082,KMB-B01-089,KMB-B01-098,KMB-B01-099,KMB-B02-011,KMB-B02-008,KMB-B01-083,KMB-B01-094,KMB-B02-012,KMB-B02-010,KMB-B02-015,KMB-B02-013"
+            },
+            {
+                "premiseId": "42788",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-D10-027,KMB-D10-026,KMB-D10-025,KMB-D10-029,KMB-D10-028"
+            },
+            {
+                "premiseId": "42546",
+                "canDeviceNum": 21,
+                "canCodes": "KMB-D06-003,KMB-D06-002,KMB-D06-001,KMB-D05-089,KMB-D05-091,KMB-D05-082,KMB-D05-081,KMB-D05-086,KMB-D05-085,KMB-D05-088,KMB-D05-092,KMB-D05-095,KMB-D05-087,KMB-D05-094,KMB-D05-097,KMB-D05-096,KMB-D05-099,KMB-D05-098,KMB-D05-079,KMB-D05-078,KMB-D05-080"
+            },
+            {
+                "premiseId": "42426",
+                "canDeviceNum": 31,
+                "canCodes": "KMB-D03-075,KMB-D03-084,KMB-D03-074,KMB-D03-080,KMB-D03-083,KMB-D03-092,KMB-D03-082,KMB-D03-081,KMB-D03-071,KMB-D03-070,KMB-D03-086,KMB-D03-095,KMB-D03-094,KMB-D03-097,KMB-D03-096,KMB-D04-029,KMB-D03-069,KMB-D03-088,KMB-D03-077,KMB-D03-076,KMB-D03-085,KMB-D03-087,KMB-D03-079,KMB-D03-078,KMB-D03-068,KMB-D03-091,KMB-D03-089,KMB-D03-073,KMB-D03-090,KMB-D03-093,KMB-D03-072"
+            },
+            {
+                "premiseId": "42547",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-D06-009,KMB-D06-008,KMB-D06-007,KMB-D06-006,KMB-D06-005,KMB-D06-004"
+            },
+            {
+                "premiseId": "42427",
+                "canDeviceNum": 30,
+                "canCodes": "KMB-D04-017,KMB-D03-099,KMB-D03-098,KMB-D04-025,KMB-D04-021,KMB-D04-020,KMB-D04-024,KMB-D04-016,KMB-D04-028,KMB-D04-012,KMB-D04-011,KMB-D04-003,KMB-D04-015,KMB-D04-010,KMB-D04-002,KMB-D04-014,KMB-D04-005,KMB-D04-001,KMB-D04-027,KMB-D04-009,KMB-D04-013,KMB-D04-004,KMB-D04-019,KMB-D04-026,KMB-D04-008,KMB-D04-018,KMB-D04-007,KMB-D04-006,KMB-D04-023,KMB-D04-022"
+            },
+            {
+                "premiseId": "1190059",
+                "canDeviceNum": 1,
+                "canCodes": "KM-YYL-TEST-03"
+            },
+            {
+                "premiseId": "42775",
+                "canDeviceNum": 34,
+                "canCodes": "KMB-E05-098,KMB-E06-015,KMB-E05-097,KMB-E06-014,KMB-E06-021,KMB-E06-024,KMB-E06-023,KMB-E05-096,KMB-E06-006,KMB-E06-005,KMB-E06-002,KMB-E06-001,KMB-E06-019,KMB-E06-018,KMB-E06-030,KMB-E06-017,KMB-E06-016,KMB-E06-029,KMB-E05-099,KMB-E06-004,KMB-E06-008,KMB-E06-007,KMB-E06-026,KMB-E06-011,KMB-E06-003,KMB-E06-009,KMB-E06-025,KMB-E06-010,KMB-E06-013,KMB-E06-012,KMB-E06-020,KMB-E06-028,KMB-E06-027,KMB-E06-022"
+            },
+            {
+                "premiseId": "42890",
+                "canDeviceNum": 36,
+                "canCodes": "KMB-C06-035,KMB-C06-055,KMB-C06-054,KMB-C06-057,KMB-C06-034,KMB-C06-056,KMB-C06-058,KMB-C06-037,KMB-C06-036,KMB-C06-039,KMB-C06-024,KMB-C06-049,KMB-C06-038,KMB-C06-040,KMB-C06-051,KMB-C06-042,KMB-C06-050,KMB-C06-041,KMB-C06-044,KMB-C06-053,KMB-C06-029,KMB-C06-052,KMB-C06-031,KMB-C06-030,KMB-C06-033,KMB-C06-043,KMB-C06-046,KMB-C06-045,KMB-C06-032,KMB-C06-048,KMB-C06-023,KMB-C06-047,KMB-C06-026,KMB-C06-025,KMB-C06-028,KMB-C06-027"
+            },
+            {
+                "premiseId": "42770",
+                "canDeviceNum": 34,
+                "canCodes": "KMB-E04-090,KMB-E04-089,KMB-E05-008,KMB-E05-010,KMB-E05-011,KMB-E04-082,KMB-E04-092,KMB-E04-081,KMB-E04-095,KMB-E04-094,KMB-E04-084,KMB-E04-083,KMB-E04-086,KMB-E05-007,KMB-E05-006,KMB-E04-097,KMB-E04-085,KMB-E05-005,KMB-E04-096,KMB-E04-088,KMB-E04-087,KMB-E04-080,KMB-E05-004,KMB-E04-099,KMB-E04-079,KMB-E05-003,KMB-E05-002,KMB-E04-098,KMB-E04-078,KMB-E05-001,KMB-E04-091,KMB-E04-077,KMB-E04-093,KMB-E05-009"
+            },
+            {
+                "premiseId": "42417",
+                "canDeviceNum": 37,
+                "canCodes": "KMB-D03-050,KMB-D03-067,KMB-D03-062,KMB-D03-061,KMB-D03-053,KMB-D03-052,KMB-D03-059,KMB-D03-048,KMB-D03-058,KMB-D03-060,KMB-D03-064,KMB-D03-063,KMB-D03-047,KMB-D03-049,KMB-D03-055,KMB-D03-054,KMB-D03-066,KMB-D03-033,KMB-D03-032,KMB-D03-035,KMB-D03-057,KMB-D03-065,KMB-D03-038,KMB-D03-034,KMB-D03-031,KMB-D03-056,KMB-D03-051,KMB-D03-044,KMB-D03-043,KMB-D03-037,KMB-D03-036,KMB-D03-039,KMB-D03-046,KMB-D03-045,KMB-D03-040,KMB-D03-042,KMB-D03-041"
+            },
+            {
+                "premiseId": "42418",
+                "canDeviceNum": 24,
+                "canCodes": "KMB-D03-022,KMB-D03-013,KMB-D03-012,KMB-D03-021,KMB-D03-024,KMB-D03-023,KMB-D03-019,KMB-D03-029,KMB-D03-026,KMB-D03-025,KMB-D03-020,KMB-D03-018,KMB-D03-028,KMB-D03-015,KMB-D03-014,KMB-D03-017,KMB-D03-027,KMB-D03-030,KMB-D03-016,KMB-D03-008,KMB-D03-007,KMB-D03-009,KMB-D03-011,KMB-D03-010"
+            },
+            {
+                "premiseId": "42539",
+                "canDeviceNum": 42,
+                "canCodes": "KMB-E02-034,KMB-E02-031,KMB-E02-030,KMB-E02-029,KMB-E02-026,KMB-E02-025,KMB-E02-028,KMB-E02-027,KMB-E02-044,KMB-E02-043,KMB-E02-046,KMB-E02-045,KMB-E02-050,KMB-E02-053,KMB-E02-024,KMB-E02-023,KMB-E02-040,KMB-E02-052,KMB-E02-048,KMB-E02-047,KMB-E02-036,KMB-E02-020,KMB-E02-042,KMB-E02-049,KMB-E02-039,KMB-E02-019,KMB-E02-041,KMB-E02-037,KMB-E02-059,KMB-E02-058,KMB-E02-038,KMB-E02-018,KMB-E02-033,KMB-E02-055,KMB-E02-054,KMB-E02-032,KMB-E02-035,KMB-E02-057,KMB-E02-056,KMB-E02-022,KMB-E02-051,KMB-E02-021"
+            },
+            {
+                "premiseId": "42419",
+                "canDeviceNum": 23,
+                "canCodes": "KMB-D03-005,KMB-D03-002,KMB-D03-001,KMB-D02-083,KMB-D02-089,KMB-D02-088,KMB-D03-004,KMB-D03-003,KMB-D02-087,KMB-D03-006,KMB-D02-086,KMB-D02-085,KMB-D02-084,KMB-D02-098,KMB-D02-094,KMB-D02-093,KMB-D02-097,KMB-D02-092,KMB-D02-091,KMB-D02-090,KMB-D02-096,KMB-D02-099,KMB-D02-095"
+            },
+            {
+                "premiseId": "42776",
+                "canDeviceNum": 27,
+                "canCodes": "KMB-E06-048,KMB-E06-047,KMB-E06-049,KMB-E06-044,KMB-E06-043,KMB-E06-046,KMB-E06-060,KMB-E06-059,KMB-E06-058,KMB-E06-055,KMB-E06-054,KMB-E06-057,KMB-E06-056,KMB-E06-040,KMB-E06-042,KMB-E06-041,KMB-E06-037,KMB-E06-036,KMB-E06-039,KMB-E06-051,KMB-E06-038,KMB-E06-050,KMB-E06-053,KMB-E06-033,KMB-E06-035,KMB-E06-034,KMB-E06-052"
+            },
+            {
+                "premiseId": "42413",
+                "canDeviceNum": 9,
+                "canCodes": "KMB-D01-068,KMB-D01-065,KMB-D01-069,KMB-D01-066,KMB-D01-070,KMB-D01-071,KMB-D01-067,KMB-D01-072,KMB-D01-073"
+            },
+            {
+                "premiseId": "42414",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-D02-062,KMB-D02-059,KMB-D02-058,KMB-D02-057,KMB-D02-061,KMB-D02-060"
+            },
+            {
+                "premiseId": "42898",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-B09-008,KMB-B09-010,KMB-B09-007,KMB-B09-009,KMB-B09-006,KMB-B09-005"
+            },
+            {
+                "premiseId": "42777",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-B08-090,KMB-B08-089,KMB-B08-098,KMB-B08-088,KMB-B08-087,KMB-B08-086,KMB-B08-085,KMB-B08-097,KMB-B08-096,KMB-B08-082,KMB-B08-084,KMB-B08-083,KMB-B08-095,KMB-B08-094,KMB-B09-004,KMB-B08-093,KMB-B09-003,KMB-B09-002,KMB-B08-092,KMB-B08-091,KMB-B08-099,KMB-B09-001"
+            },
+            {
+                "premiseId": "42415",
+                "canDeviceNum": 24,
+                "canCodes": "KMB-D02-013,KMB-D02-012,KMB-D02-011,KMB-D02-010,KMB-D02-021,KMB-D02-005,KMB-D02-020,KMB-D02-028,KMB-D02-019,KMB-D02-018,KMB-D02-017,KMB-D02-016,KMB-D02-009,KMB-D02-008,KMB-D02-027,KMB-D02-007,KMB-D02-026,KMB-D02-015,KMB-D02-014,KMB-D02-006,KMB-D02-025,KMB-D02-024,KMB-D02-023,KMB-D02-022"
+            },
+            {
+                "premiseId": "42899",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-A12-034,KMB-A12-036,KMB-A12-035,KMB-A12-038,KMB-A12-037,KMB-A12-039"
+            },
+            {
+                "premiseId": "42416",
+                "canDeviceNum": 28,
+                "canCodes": "KMB-D02-035,KMB-D02-034,KMB-D02-047,KMB-D02-046,KMB-D02-045,KMB-D02-044,KMB-D02-033,KMB-D02-032,KMB-D02-031,KMB-D02-056,KMB-D02-030,KMB-D02-029,KMB-D02-050,KMB-D02-043,KMB-D02-042,KMB-D02-055,KMB-D02-041,KMB-D02-040,KMB-D02-054,KMB-D02-039,KMB-D02-053,KMB-D02-038,KMB-D02-052,KMB-D02-037,KMB-D02-051,KMB-D02-049,KMB-D02-048,KMB-D02-036"
+            },
+            {
+                "premiseId": "42779",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-B08-056,KMB-B08-055,KMB-B08-054,KMB-B08-053,KMB-B08-052,KMB-B08-051"
+            },
+            {
+                "premiseId": "4246784",
+                "canDeviceNum": 1,
+                "canCodes": "KMA-A08-789"
+            },
+            {
+                "premiseId": "42882",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-A13-026,KMB-A13-025,KMB-A13-024,KMB-A13-023,KMB-A13-027"
+            },
+            {
+                "premiseId": "42520",
+                "canDeviceNum": 2,
+                "canCodes": "KMB-A06-070,KMB-A06-071"
+            },
+            {
+                "premiseId": "42400",
+                "canDeviceNum": 52,
+                "canCodes": "KMB-D01-018,KMB-D01-043,KMB-D01-019,KMB-D01-003,KMB-D01-037,KMB-D01-004,KMB-D01-049,KMB-D01-052,KMB-D01-044,KMB-D01-020,KMB-D01-053,KMB-D01-054,KMB-D01-026,KMB-D01-005,KMB-D01-045,KMB-D01-006,KMB-D01-046,KMB-D01-007,KMB-D01-047,KMB-D01-008,KMB-D01-048,KMB-D01-009,KMB-D01-010,KMB-D01-040,KMB-D01-011,KMB-D01-021,KMB-D01-022,KMB-D01-023,KMB-D01-050,KMB-D01-051,KMB-D01-027,KMB-D01-012,KMB-D01-016,KMB-D01-017,KMB-D01-024,KMB-D01-025,KMB-D01-028,KMB-D01-029,KMB-D01-001,KMB-D01-013,KMB-D01-030,KMB-D01-014,KMB-D01-031,KMB-D01-015,KMB-D01-032,KMB-D01-038,KMB-D01-039,KMB-D01-033,KMB-D01-034,KMB-D01-041,KMB-D01-035,KMB-D01-042"
+            },
+            {
+                "premiseId": "42401",
+                "canDeviceNum": 40,
+                "canCodes": "KMB-C02-005,KMB-C01-090,KMB-C01-086,KMB-C01-087,KMB-C02-006,KMB-C01-080,KMB-C02-018,KMB-C02-010,KMB-C02-011,KMB-C02-012,KMB-C02-013,KMB-C01-081,KMB-C01-084,KMB-C01-095,KMB-C02-007,KMB-C02-019,KMB-C02-014,KMB-C02-015,KMB-C01-085,KMB-C01-082,KMB-C01-083,KMB-C01-088,KMB-C01-096,KMB-C02-008,KMB-C02-001,KMB-C01-089,KMB-C02-009,KMB-C01-093,KMB-C01-094,KMB-C02-002,KMB-C02-003,KMB-C02-004,KMB-C02-020,KMB-C02-016,KMB-C02-017,KMB-C01-099,KMB-C01-097,KMB-C01-091,KMB-C01-098,KMB-C01-092"
+            },
+            {
+                "premiseId": "42881",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-B09-019,KMB-B09-018,KMB-B09-017,KMB-B09-016,KMB-B09-020"
+            },
+            {
+                "premiseId": "42406",
+                "canDeviceNum": 3,
+                "canCodes": "KMB-B01-059,KMB-B01-061,KMB-B01-060"
+            },
+            {
+                "premiseId": "42769",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-E03-089,KMB-E03-088,KMB-E03-087,KMB-E03-086,KMB-E03-093,KMB-E03-092,KMB-E03-091,KMB-E03-090,KMB-E03-085,KMB-E03-084"
+            },
+            {
+                "premiseId": "42529",
+                "canDeviceNum": 34,
+                "canCodes": "KMB-D06-059,KMB-D06-084,KMB-D06-083,KMB-D06-058,KMB-D06-082,KMB-D06-066,KMB-D06-076,KMB-D06-075,KMB-D06-074,KMB-D06-057,KMB-D06-056,KMB-D06-055,KMB-D06-065,KMB-D06-064,KMB-D06-062,KMB-D06-081,KMB-D06-080,KMB-D06-069,KMB-D06-073,KMB-D06-063,KMB-D06-061,KMB-D06-068,KMB-D06-079,KMB-D06-072,KMB-D06-060,KMB-D06-067,KMB-D06-078,KMB-D06-077,KMB-D06-071,KMB-D06-054,KMB-D06-085,KMB-D06-070,KMB-D06-053,KMB-D06-052"
+            },
+            {
+                "premiseId": "42409",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-B02-049,KMB-B02-055,KMB-B02-053,KMB-B02-054,KMB-B02-051,KMB-B02-052,KMB-B02-050,KMB-B02-056"
+            },
+            {
+                "premiseId": "42765",
+                "canDeviceNum": 35,
+                "canCodes": "KMB-B02-099,KMB-B02-097,KMB-B02-098,KMB-B02-091,KMB-B02-092,KMB-B02-090,KMB-B02-095,KMB-B02-096,KMB-B02-083,KMB-B02-077,KMB-B02-078,KMB-B02-075,KMB-B02-076,KMB-B02-079,KMB-B02-073,KMB-B02-074,KMB-B03-002,KMB-B03-003,KMB-B03-004,KMB-B02-089,KMB-B02-086,KMB-B03-001,KMB-B02-093,KMB-B02-094,KMB-B03-005,KMB-B02-087,KMB-B02-080,KMB-B02-081,KMB-B03-006,KMB-B03-007,KMB-B03-008,KMB-B02-084,KMB-B02-085,KMB-B02-088,KMB-B02-082"
+            },
+            {
+                "premiseId": "42523",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-D06-015,KMB-D06-013,KMB-D06-012,KMB-D06-010"
+            },
+            {
+                "premiseId": "42766",
+                "canDeviceNum": 48,
+                "canCodes": "KMB-D08-004,KMB-D08-003,KMB-D08-034,KMB-D08-010,KMB-D08-016,KMB-D08-002,KMB-D08-019,KMB-D08-022,KMB-D08-021,KMB-D08-033,KMB-D08-032,KMB-D08-015,KMB-D08-018,KMB-D08-020,KMB-D08-031,KMB-D08-014,KMB-D08-017,KMB-D08-012,KMB-D07-098,KMB-D08-027,KMB-D07-092,KMB-D08-037,KMB-D08-036,KMB-D08-035,KMB-D08-013,KMB-D07-099,KMB-D08-029,KMB-D08-028,KMB-D08-023,KMB-D08-011,KMB-D07-095,KMB-D08-026,KMB-D07-089,KMB-D08-009,KMB-D08-008,KMB-D08-007,KMB-D07-094,KMB-D08-025,KMB-D08-006,KMB-D07-097,KMB-D08-024,KMB-D08-001,KMB-D08-005,KMB-D07-096,KMB-D08-030,KMB-D07-091,KMB-D07-090,KMB-D07-093"
+            },
+            {
+                "premiseId": "42524",
+                "canDeviceNum": 1,
+                "canCodes": "KMB-D06-021"
+            },
+            {
+                "premiseId": "42767",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-D08-045,KMB-D08-044,KMB-D08-043,KMB-D08-042,KMB-D08-047,KMB-D08-046"
+            },
+            {
+                "premiseId": "42525",
+                "canDeviceNum": 15,
+                "canCodes": "KMB-D06-044,KMB-D06-023,KMB-D06-050,KMB-D06-022,KMB-D06-032,KMB-D06-039,KMB-D06-035,KMB-D06-034,KMB-D06-042,KMB-D06-030,KMB-D06-048,KMB-D06-046,KMB-D06-045,KMB-D06-026,KMB-D06-025"
+            },
+            {
+                "premiseId": "42768",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-E03-063,KMB-E03-062,KMB-E03-067,KMB-E03-066,KMB-E03-065,KMB-E03-064,KMB-E03-079,KMB-E03-071,KMB-E03-078,KMB-E03-077,KMB-E03-083,KMB-E03-076,KMB-E03-075,KMB-E03-070,KMB-E03-082,KMB-E03-081,KMB-E03-080,KMB-E03-069,KMB-E03-068,KMB-E03-074,KMB-E03-073,KMB-E03-072"
+            },
+            {
+                "premiseId": "42750",
+                "canDeviceNum": 23,
+                "canCodes": "KMB-D11-005,KMB-D11-026,KMB-D11-014,KMB-D11-013,KMB-D11-007,KMB-D11-006,KMB-D11-009,KMB-D11-021,KMB-D11-016,KMB-D11-008,KMB-D11-020,KMB-D11-015,KMB-D11-010,KMB-D11-012,KMB-D11-022,KMB-D11-018,KMB-D11-011,KMB-D11-017,KMB-D11-019,KMB-D11-028,KMB-D11-025,KMB-D11-024,KMB-D11-027"
+            },
+            {
+                "premiseId": "42751",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-D10-094,KMB-D10-093,KMB-D10-092,KMB-D10-098,KMB-D10-091,KMB-D10-090,KMB-D11-002,KMB-D11-001,KMB-D10-097,KMB-D10-096,KMB-D10-095"
+            },
+            {
+                "premiseId": "42873",
+                "canDeviceNum": 16,
+                "canCodes": "KMB-E08-093,KMB-E08-092,KMB-E08-095,KMB-E08-094,KMB-E08-088,KMB-E08-089,KMB-E08-096,KMB-E08-099,KMB-E08-098,KMB-E08-091,KMB-E08-090,KMB-E09-004,KMB-E09-003,KMB-E09-002,KMB-E09-001,KMB-E08-097"
+            },
+            {
+                "premiseId": "42752",
+                "canDeviceNum": 16,
+                "canCodes": "KMB-D10-079,KMB-D10-086,KMB-D10-085,KMB-D10-084,KMB-D10-083,KMB-D10-078,KMB-D10-077,KMB-D10-082,KMB-D10-081,KMB-D10-080,KMB-D10-076,KMB-D10-075,KMB-D10-074,KMB-D10-089,KMB-D10-088,KMB-D10-087"
+            },
+            {
+                "premiseId": "42511",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-A06-044,KMB-A06-045,KMB-A06-041,KMB-A06-043,KMB-A06-042"
+            },
+            {
+                "premiseId": "42874",
+                "canDeviceNum": 18,
+                "canCodes": "KMB-E09-016,KMB-E09-015,KMB-E09-014,KMB-E09-013,KMB-E09-012,KMB-E09-011,KMB-E09-010,KMB-E09-009,KMB-E09-008,KMB-E09-007,KMB-E09-006,KMB-E09-005,KMB-E09-022,KMB-E09-019,KMB-E09-021,KMB-E09-018,KMB-E09-017,KMB-E09-020"
+            },
+            {
+                "premiseId": "42753",
+                "canDeviceNum": 23,
+                "canCodes": "KMB-D10-048,KMB-D10-047,KMB-D10-046,KMB-D10-045,KMB-D10-044,KMB-D10-043,KMB-D10-042,KMB-D10-041,KMB-D10-040,KMB-D10-052,KMB-D10-051,KMB-D10-050,KMB-D10-039,KMB-D10-038,KMB-D10-037,KMB-D10-036,KMB-D10-049,KMB-D10-035,KMB-D10-034,KMB-D10-033,KMB-D10-032,KMB-D10-031,KMB-D10-030"
+            },
+            {
+                "premiseId": "42879",
+                "canDeviceNum": 3,
+                "canCodes": "KMB-A13-020,KMB-A13-022,KMB-A13-021"
+            },
+            {
+                "premiseId": "42517",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-B05-023,KMB-B05-036,KMB-B05-035,KMB-B05-037,KMB-B05-030,KMB-B05-038,KMB-B05-031,KMB-B05-029,KMB-B05-024,KMB-B05-020,KMB-B05-039,KMB-B05-021,KMB-B05-022,KMB-B05-025,KMB-B05-018,KMB-B05-026,KMB-B05-019,KMB-B05-027,KMB-B05-032,KMB-B05-028,KMB-B05-033,KMB-B05-034"
+            },
+            {
+                "premiseId": "42519",
+                "canDeviceNum": 18,
+                "canCodes": "KMB-A06-069,KMB-A06-065,KMB-A06-066,KMB-A06-067,KMB-A06-054,KMB-A06-055,KMB-A06-068,KMB-A06-056,KMB-A06-061,KMB-A06-062,KMB-A06-057,KMB-A06-063,KMB-A06-052,KMB-A06-053,KMB-A06-064,KMB-A06-060,KMB-A06-058,KMB-A06-059"
+            },
+            {
+                "premiseId": "42875",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-F05-076,KMB-F05-067,KMB-F05-069,KMB-F05-066,KMB-F05-071,KMB-F05-070,KMB-F05-073,KMB-F05-072,KMB-F05-075,KMB-F05-074,KMB-F05-065,KMB-F05-068"
+            },
+            {
+                "premiseId": "42754",
+                "canDeviceNum": 18,
+                "canCodes": "KMB-D10-073,KMB-D10-072,KMB-D10-071,KMB-D10-070,KMB-D10-067,KMB-D10-066,KMB-D10-065,KMB-D10-059,KMB-D10-064,KMB-D10-058,KMB-D10-063,KMB-D10-057,KMB-D10-056,KMB-D10-062,KMB-D10-061,KMB-D10-069,KMB-D10-068,KMB-D10-060"
+            },
+            {
+                "premiseId": "42876",
+                "canDeviceNum": 81,
+                "canCodes": "KMB-D14-037,KMB-D14-038,KMB-D14-012,KMB-D14-013,KMB-D14-052,KMB-D14-039,KMB-D13-087,KMB-D14-022,KMB-D14-014,KMB-D14-017,KMB-D14-018,KMB-D14-063,KMB-D14-064,KMB-D14-065,KMB-D14-060,KMB-D14-057,KMB-D14-058,KMB-D14-059,KMB-D14-061,KMB-D14-062,KMB-D13-096,KMB-D13-095,KMB-D13-098,KMB-D14-053,KMB-D14-047,KMB-D14-048,KMB-D14-040,KMB-D14-041,KMB-D13-086,KMB-D14-023,KMB-D14-024,KMB-D14-025,KMB-D14-015,KMB-D14-019,KMB-D14-020,KMB-D14-021,KMB-D14-007,KMB-D14-008,KMB-D14-009,KMB-D14-054,KMB-D14-055,KMB-D14-049,KMB-D14-042,KMB-D13-089,KMB-D13-088,KMB-D14-026,KMB-D14-016,KMB-D14-010,KMB-D14-011,KMB-D14-056,KMB-D14-050,KMB-D14-051,KMB-D14-043,KMB-D14-001,KMB-D14-032,KMB-D14-033,KMB-D14-034,KMB-D14-035,KMB-D14-036,KMB-D14-027,KMB-D14-028,KMB-D14-029,KMB-D14-030,KMB-D14-031,KMB-D14-044,KMB-D14-002,KMB-D14-003,KMB-D13-097,KMB-D13-099,KMB-D13-090,KMB-D13-092,KMB-D14-045,KMB-D14-046,KMB-D14-004,KMB-D14-005,KMB-D14-006,KMB-D13-091,KMB-D13-094,KMB-D13-093,KMB-D13-085,KMB-D13-084"
+            },
+            {
+                "premiseId": "42755",
+                "canDeviceNum": 23,
+                "canCodes": "KMB-A12-080,KMB-A12-083,KMB-A12-082,KMB-A12-085,KMB-A12-084,KMB-A12-087,KMB-A12-086,KMB-A12-078,KMB-A12-076,KMB-A12-075,KMB-A12-077,KMB-A12-092,KMB-A12-079,KMB-A12-091,KMB-A12-070,KMB-A12-090,KMB-A12-072,KMB-A12-089,KMB-A12-088,KMB-A12-081,KMB-A12-071,KMB-A12-074,KMB-A12-073"
+            },
+            {
+                "premiseId": "42877",
+                "canDeviceNum": 108,
+                "canCodes": "KMB-D12-072,KMB-D13-015,KMB-D12-071,KMB-D12-070,KMB-D12-066,KMB-D13-004,KMB-D13-007,KMB-D13-006,KMB-D12-084,KMB-D12-057,KMB-D12-083,KMB-D12-056,KMB-D12-082,KMB-D12-051,KMB-D13-018,KMB-D13-017,KMB-D13-019,KMB-D13-010,KMB-D13-034,KMB-D13-033,KMB-D13-036,KMB-D12-065,KMB-D12-064,KMB-D12-063,KMB-D12-069,KMB-D13-012,KMB-D13-009,KMB-D12-054,KMB-D13-041,KMB-D12-081,KMB-D12-050,KMB-D13-023,KMB-D13-022,KMB-D13-025,KMB-D13-024,KMB-D12-098,KMB-D12-097,KMB-D13-035,KMB-D12-096,KMB-D13-027,KMB-D12-091,KMB-D12-068,KMB-D12-067,KMB-D12-075,KMB-D13-001,KMB-D13-011,KMB-D13-003,KMB-D13-002,KMB-D13-008,KMB-D12-077,KMB-D12-076,KMB-D12-053,KMB-D12-052,KMB-D12-059,KMB-D12-039,KMB-D13-016,KMB-D13-026,KMB-D12-090,KMB-D12-074,KMB-D13-014,KMB-D12-062,KMB-D12-061,KMB-D12-038,KMB-D12-044,KMB-D12-058,KMB-D12-087,KMB-D13-029,KMB-D12-095,KMB-D12-079,KMB-D13-013,KMB-D12-060,KMB-D12-043,KMB-D12-086,KMB-D12-085,KMB-D12-089,KMB-D12-080,KMB-D13-028,KMB-D13-021,KMB-D12-094,KMB-D12-093,KMB-D12-078,KMB-D12-073,KMB-D13-005,KMB-D12-049,KMB-D12-048,KMB-D12-042,KMB-D13-020,KMB-D12-092,KMB-D12-055,KMB-D12-041,KMB-D12-047,KMB-D12-046,KMB-D12-045,KMB-D13-040,KMB-D12-088,KMB-D12-040,KMB-D12-037,KMB-D13-043,KMB-D12-036,KMB-D13-042,KMB-D13-038,KMB-D12-035,KMB-D12-099,KMB-D13-037,KMB-D13-039,KMB-D13-030,KMB-D13-032,KMB-D13-031"
+            },
+            {
+                "premiseId": "42515",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-B03-032,KMB-B03-033,KMB-B03-034,KMB-B03-035,KMB-B03-036,KMB-B03-037,KMB-B03-038,KMB-B03-039,KMB-B03-030,KMB-B03-031"
+            },
+            {
+                "premiseId": "42878",
+                "canDeviceNum": 76,
+                "canCodes": "KMB-D15-065,KMB-D15-062,KMB-D15-063,KMB-D15-025,KMB-D15-060,KMB-D15-061,KMB-D15-059,KMB-D15-057,KMB-D15-058,KMB-D15-017,KMB-D15-015,KMB-D15-016,KMB-D15-013,KMB-D15-014,KMB-D15-009,KMB-D15-028,KMB-D15-029,KMB-D15-070,KMB-D15-044,KMB-D15-033,KMB-D15-006,KMB-D15-026,KMB-D15-077,KMB-D15-034,KMB-D15-007,KMB-D15-027,KMB-D15-024,KMB-D15-004,KMB-D15-005,KMB-D15-046,KMB-D15-031,KMB-D15-022,KMB-D15-047,KMB-D15-035,KMB-D15-036,KMB-D15-081,KMB-D15-045,KMB-D15-084,KMB-D15-085,KMB-D15-043,KMB-D15-082,KMB-D15-041,KMB-D15-083,KMB-D15-039,KMB-D15-032,KMB-D15-023,KMB-D15-066,KMB-D15-055,KMB-D15-053,KMB-D15-054,KMB-D15-038,KMB-D15-079,KMB-D15-030,KMB-D15-021,KMB-D15-019,KMB-D15-067,KMB-D15-064,KMB-D15-051,KMB-D15-052,KMB-D15-011,KMB-D15-050,KMB-D15-048,KMB-D15-012,KMB-D15-049,KMB-D15-010,KMB-D15-008,KMB-D15-071,KMB-D15-078,KMB-D15-075,KMB-D15-072,KMB-D15-076,KMB-D15-068,KMB-D15-073,KMB-D15-074,KMB-D15-069,KMB-D15-080"
+            },
+            {
+                "premiseId": "42860",
+                "canDeviceNum": 9,
+                "canCodes": "KMB-B09-055,KMB-B09-054,KMB-B09-057,KMB-B09-056,KMB-B09-061,KMB-B09-060,KMB-B09-053,KMB-B09-059,KMB-B09-058"
+            },
+            {
+                "premiseId": "42861",
+                "canDeviceNum": 24,
+                "canCodes": "KMB-C05-061,KMB-C05-060,KMB-C05-067,KMB-C05-066,KMB-C05-072,KMB-C05-065,KMB-C05-064,KMB-C05-059,KMB-C05-071,KMB-C05-058,KMB-C05-075,KMB-C05-070,KMB-C05-057,KMB-C05-069,KMB-C05-068,KMB-C05-052,KMB-C05-056,KMB-C05-055,KMB-C05-054,KMB-C05-053,KMB-C05-074,KMB-C05-073,KMB-C05-063,KMB-C05-062"
+            },
+            {
+                "premiseId": "42862",
+                "canDeviceNum": 26,
+                "canCodes": "KMB-C06-001,KMB-C06-004,KMB-C06-003,KMB-C06-006,KMB-C06-005,KMB-C06-008,KMB-C06-007,KMB-C06-011,KMB-C06-009,KMB-C06-002,KMB-C06-018,KMB-C06-020,KMB-C06-022,KMB-C06-021,KMB-C06-010,KMB-C05-096,KMB-C05-099,KMB-C06-013,KMB-C05-098,KMB-C06-012,KMB-C05-097,KMB-C06-015,KMB-C06-014,KMB-C06-017,KMB-C06-016,KMB-C06-019"
+            },
+            {
+                "premiseId": "42741",
+                "canDeviceNum": 26,
+                "canCodes": "KMB-E04-015,KMB-E04-014,KMB-E04-017,KMB-E04-016,KMB-E04-019,KMB-E04-018,KMB-E04-011,KMB-E04-010,KMB-E04-007,KMB-E03-095,KMB-E03-094,KMB-E03-099,KMB-E03-098,KMB-E03-097,KMB-E04-020,KMB-E04-013,KMB-E04-012,KMB-E04-009,KMB-E04-002,KMB-E03-096,KMB-E04-001,KMB-E04-004,KMB-E04-003,KMB-E04-006,KMB-E04-005,KMB-E04-008"
+            },
+            {
+                "premiseId": "42863",
+                "canDeviceNum": 19,
+                "canCodes": "KMB-C05-078,KMB-C05-077,KMB-C05-076,KMB-C05-082,KMB-C05-089,KMB-C05-095,KMB-C05-088,KMB-C05-094,KMB-C05-093,KMB-C05-087,KMB-C05-092,KMB-C05-091,KMB-C05-086,KMB-C05-081,KMB-C05-080,KMB-C05-079,KMB-C05-090,KMB-C05-084,KMB-C05-083"
+            },
+            {
+                "premiseId": "42742",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-C05-038,KMB-C05-037,KMB-C05-036,KMB-C05-035,KMB-C05-039,KMB-C05-030,KMB-C05-034,KMB-C05-033,KMB-C05-032,KMB-C05-031"
+            },
+            {
+                "premiseId": "42505",
+                "canDeviceNum": 24,
+                "canCodes": "KMB-B03-095,KMB-B03-097,KMB-B03-085,KMB-B03-086,KMB-B03-087,KMB-B03-088,KMB-B04-001,KMB-B03-098,KMB-B03-099,KMB-B03-089,KMB-B03-090,KMB-B03-080,KMB-B03-091,KMB-B03-092,KMB-B03-093,KMB-B03-094,KMB-B03-081,KMB-B03-082,KMB-B03-083,KMB-B03-084,KMB-B03-077,KMB-B03-078,KMB-B03-079,KMB-B03-096"
+            },
+            {
+                "premiseId": "42868",
+                "canDeviceNum": 28,
+                "canCodes": "KMB-E07-025,KMB-E07-024,KMB-E07-029,KMB-E07-028,KMB-E07-030,KMB-E07-041,KMB-E07-040,KMB-E07-050,KMB-E07-045,KMB-E07-034,KMB-E07-044,KMB-E07-033,KMB-E07-032,KMB-E07-022,KMB-E07-038,KMB-E07-043,KMB-E07-031,KMB-E07-027,KMB-E07-026,KMB-E07-037,KMB-E07-036,KMB-E07-042,KMB-E07-035,KMB-E07-039,KMB-E07-049,KMB-E07-048,KMB-E07-047,KMB-E07-046"
+            },
+            {
+                "premiseId": "42747",
+                "canDeviceNum": 21,
+                "canCodes": "KMB-D11-086,KMB-D11-083,KMB-D11-082,KMB-D11-085,KMB-D11-084,KMB-D11-072,KMB-D11-081,KMB-D11-071,KMB-D11-074,KMB-D11-073,KMB-D11-065,KMB-D11-067,KMB-D11-080,KMB-D11-068,KMB-D11-070,KMB-D11-066,KMB-D11-079,KMB-D11-076,KMB-D11-075,KMB-D11-078,KMB-D11-077"
+            },
+            {
+                "premiseId": "42506",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-B04-088,KMB-B04-089,KMB-B04-086,KMB-B04-087,KMB-B04-085"
+            },
+            {
+                "premiseId": "42748",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-D11-063,KMB-D11-064,KMB-D11-061,KMB-D11-062,KMB-D11-060,KMB-D11-058,KMB-D11-057,KMB-D11-059,KMB-D11-056,KMB-D11-055"
+            },
+            {
+                "premiseId": "42749",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-D11-048,KMB-D11-043,KMB-D11-042,KMB-D11-045,KMB-D11-044,KMB-D11-041,KMB-D11-040,KMB-D11-039,KMB-D11-054,KMB-D11-053,KMB-D11-050,KMB-D11-052,KMB-D11-051,KMB-D11-035,KMB-D11-038,KMB-D11-037,KMB-D11-034,KMB-D11-033,KMB-D11-047,KMB-D11-046,KMB-D11-049,KMB-D11-036"
+            },
+            {
+                "premiseId": "42501",
+                "canDeviceNum": 38,
+                "canCodes": "KMB-E01-004,KMB-E01-017,KMB-E01-003,KMB-E01-014,KMB-E01-013,KMB-E01-012,KMB-E01-016,KMB-E01-015,KMB-E01-025,KMB-E01-002,KMB-E01-020,KMB-E01-029,KMB-E01-028,KMB-E01-027,KMB-E01-026,KMB-E01-011,KMB-E01-010,KMB-E01-033,KMB-E01-024,KMB-E01-001,KMB-E01-009,KMB-E01-008,KMB-E01-036,KMB-E01-019,KMB-E01-032,KMB-E01-023,KMB-E01-022,KMB-E01-021,KMB-E01-007,KMB-E01-006,KMB-E01-005,KMB-E01-035,KMB-E01-018,KMB-E01-031,KMB-E01-034,KMB-E01-030,KMB-E01-038,KMB-E01-037"
+            },
+            {
+                "premiseId": "42502",
+                "canDeviceNum": 46,
+                "canCodes": "KMB-E01-050,KMB-E01-084,KMB-E01-083,KMB-E01-045,KMB-E01-059,KMB-E01-069,KMB-E01-063,KMB-E01-082,KMB-E01-081,KMB-E01-077,KMB-E01-076,KMB-E01-075,KMB-E01-074,KMB-E01-058,KMB-E01-073,KMB-E01-044,KMB-E01-043,KMB-E01-068,KMB-E01-067,KMB-E01-066,KMB-E01-062,KMB-E01-080,KMB-E01-057,KMB-E01-072,KMB-E01-056,KMB-E01-055,KMB-E01-054,KMB-E01-053,KMB-E01-042,KMB-E01-065,KMB-E01-064,KMB-E01-061,KMB-E01-060,KMB-E01-039,KMB-E01-047,KMB-E01-046,KMB-E01-071,KMB-E01-070,KMB-E01-052,KMB-E01-051,KMB-E01-041,KMB-E01-040,KMB-E01-049,KMB-E01-048,KMB-E01-079,KMB-E01-078"
+            },
+            {
+                "premiseId": "42865",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-E06-094,KMB-E06-091,KMB-E06-090,KMB-E06-093,KMB-E06-092,KMB-E06-088,KMB-E06-087,KMB-E06-089,KMB-E06-075,KMB-E06-084,KMB-E06-083,KMB-E06-086,KMB-E06-085,KMB-E06-080,KMB-E06-082,KMB-E06-081,KMB-E06-077,KMB-E06-076,KMB-E06-079,KMB-E06-078"
+            },
+            {
+                "premiseId": "42503",
+                "canDeviceNum": 30,
+                "canCodes": "KMB-E01-092,KMB-E02-015,KMB-E02-012,KMB-E01-091,KMB-E02-014,KMB-E01-090,KMB-E02-002,KMB-E01-085,KMB-E02-001,KMB-E02-008,KMB-E01-099,KMB-E02-011,KMB-E01-098,KMB-E02-007,KMB-E02-009,KMB-E02-010,KMB-E01-097,KMB-E02-004,KMB-E01-089,KMB-E02-013,KMB-E02-003,KMB-E01-096,KMB-E02-006,KMB-E02-005,KMB-E01-095,KMB-E01-094,KMB-E01-088,KMB-E01-087,KMB-E01-086,KMB-E01-093"
+            },
+            {
+                "premiseId": "42866",
+                "canDeviceNum": 18,
+                "canCodes": "KMB-E07-001,KMB-E07-005,KMB-E07-004,KMB-E07-003,KMB-E07-002,KMB-E06-097,KMB-E07-006,KMB-E07-009,KMB-E06-096,KMB-E07-008,KMB-E06-099,KMB-E07-007,KMB-E06-098,KMB-E07-012,KMB-E07-011,KMB-E07-010,KMB-E07-013,KMB-E06-095"
+            },
+            {
+                "premiseId": "42745",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-D12-025,KMB-D12-024,KMB-D12-023,KMB-D12-019,KMB-D12-018,KMB-D12-022,KMB-D12-021,KMB-D12-020"
+            },
+            {
+                "premiseId": "42504",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-B03-073,KMB-B03-069,KMB-B03-074,KMB-B03-075,KMB-B03-076,KMB-B03-070,KMB-B03-071,KMB-B03-072"
+            },
+            {
+                "premiseId": "42867",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-E07-020,KMB-E07-016,KMB-E07-015,KMB-E07-014,KMB-E07-019,KMB-E07-018,KMB-E07-017,KMB-E07-021"
+            },
+            {
+                "premiseId": "42746",
+                "canDeviceNum": 29,
+                "canCodes": "KMB-D11-099,KMB-D11-094,KMB-D11-093,KMB-D11-095,KMB-D11-090,KMB-D11-092,KMB-D11-091,KMB-D12-015,KMB-D12-017,KMB-D12-014,KMB-D12-016,KMB-D12-008,KMB-D12-013,KMB-D12-007,KMB-D12-012,KMB-D12-006,KMB-D12-005,KMB-D12-009,KMB-D12-011,KMB-D12-004,KMB-D11-087,KMB-D11-089,KMB-D12-010,KMB-D12-003,KMB-D11-088,KMB-D12-002,KMB-D11-098,KMB-D12-001,KMB-D11-097"
+            },
+            {
+                "premiseId": "42850",
+                "canDeviceNum": 14,
+                "canCodes": "KMB-A12-056,KMB-A12-055,KMB-A12-058,KMB-A12-046,KMB-A12-049,KMB-A12-057,KMB-A12-048,KMB-A12-059,KMB-A12-050,KMB-A12-052,KMB-A12-051,KMB-A12-054,KMB-A12-053,KMB-A12-047"
+            },
+            {
+                "premiseId": "42851",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-D09-083,KMB-D09-075,KMB-D09-074,KMB-D09-077,KMB-D09-076,KMB-D09-079,KMB-D09-078,KMB-D09-087,KMB-D09-089,KMB-D09-073,KMB-D09-072,KMB-D09-080,KMB-D09-091,KMB-D09-082,KMB-D09-090,KMB-D09-081,KMB-D09-086,KMB-D09-085,KMB-D09-084,KMB-D09-088"
+            },
+            {
+                "premiseId": "42852",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-D10-005,KMB-D10-004,KMB-D10-003,KMB-D10-002,KMB-D10-001,KMB-D10-009,KMB-D10-008,KMB-D10-007,KMB-D09-094,KMB-D10-014,KMB-D10-013,KMB-D09-097,KMB-D09-096,KMB-D10-006,KMB-D10-012,KMB-D10-011,KMB-D09-099,KMB-D10-010,KMB-D09-093,KMB-D09-092,KMB-D09-098,KMB-D09-095"
+            },
+            {
+                "premiseId": "42731",
+                "canDeviceNum": 39,
+                "canCodes": "KMB-D08-053,KMB-D08-059,KMB-D08-058,KMB-D08-057,KMB-D08-063,KMB-D08-062,KMB-D08-061,KMB-D08-060,KMB-D08-067,KMB-D08-066,KMB-D08-065,KMB-D08-064,KMB-D08-069,KMB-D08-068,KMB-D08-070,KMB-D08-074,KMB-D08-049,KMB-D08-048,KMB-D08-052,KMB-D08-051,KMB-D08-050,KMB-D08-056,KMB-D08-055,KMB-D08-054,KMB-D08-081,KMB-D08-073,KMB-D08-080,KMB-D08-072,KMB-D08-085,KMB-D08-084,KMB-D08-071,KMB-D08-078,KMB-D08-077,KMB-D08-083,KMB-D08-076,KMB-D08-082,KMB-D08-075,KMB-D08-079,KMB-D08-086"
+            },
+            {
+                "premiseId": "42736",
+                "canDeviceNum": 18,
+                "canCodes": "KMB-D09-068,KMB-D09-067,KMB-D09-059,KMB-D09-069,KMB-D09-058,KMB-D09-071,KMB-D09-070,KMB-D09-064,KMB-D09-063,KMB-D09-066,KMB-D09-065,KMB-D09-060,KMB-D09-062,KMB-D09-061,KMB-D09-055,KMB-D09-054,KMB-D09-057,KMB-D09-056"
+            },
+            {
+                "premiseId": "42859",
+                "canDeviceNum": 9,
+                "canCodes": "KMB-D12-029,KMB-D12-028,KMB-D12-027,KMB-D12-033,KMB-D12-032,KMB-D12-031,KMB-D12-030,KMB-D12-034,KMB-D12-026"
+            },
+            {
+                "premiseId": "42739",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-A08-013,KMB-A08-010,KMB-A08-011,KMB-A08-014,KMB-A08-015,KMB-A08-009,KMB-A08-016,KMB-A08-008,KMB-A08-012,KMB-A08-017,KMB-A08-018,KMB-A08-019"
+            },
+            {
+                "premiseId": "42853",
+                "canDeviceNum": 10,
+                "canCodes": "KMB-D10-023,KMB-D10-022,KMB-D10-021,KMB-D10-020,KMB-D10-017,KMB-D10-016,KMB-D10-015,KMB-D10-019,KMB-D10-018,KMB-D10-024"
+            },
+            {
+                "premiseId": "42855",
+                "canDeviceNum": 13,
+                "canCodes": "KMB-D16-023,KMB-D16-016,KMB-D16-017,KMB-D16-018,KMB-D16-019,KMB-D16-012,KMB-D16-013,KMB-D16-014,KMB-D16-015,KMB-D16-020,KMB-D16-021,KMB-D16-022,KMB-D16-011"
+            },
+            {
+                "premiseId": "42734",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-C05-025,KMB-C05-024,KMB-C05-029,KMB-C05-028,KMB-C05-027,KMB-C05-026"
+            },
+            {
+                "premiseId": "42735",
+                "canDeviceNum": 13,
+                "canCodes": "KMB-D09-052,KMB-D09-051,KMB-D09-041,KMB-D09-044,KMB-D09-043,KMB-D09-046,KMB-D09-045,KMB-D09-048,KMB-D09-047,KMB-D09-050,KMB-D09-053,KMB-D09-049,KMB-D09-042"
+            },
+            {
+                "premiseId": "42729",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-B07-004,KMB-B07-003,KMB-B07-013,KMB-B07-012,KMB-B07-006,KMB-B07-011,KMB-B07-005,KMB-B07-010,KMB-B07-008,KMB-B07-002,KMB-B07-007,KMB-B07-009"
+            },
+            {
+                "premiseId": "42840",
+                "canDeviceNum": 25,
+                "canCodes": "KMB-F04-004,KMB-F03-084,KMB-F04-003,KMB-F04-002,KMB-F03-083,KMB-F04-001,KMB-F03-080,KMB-F03-082,KMB-F03-086,KMB-F03-085,KMB-F03-098,KMB-F03-081,KMB-F03-088,KMB-F03-089,KMB-F03-087,KMB-F03-079,KMB-F03-078,KMB-F03-091,KMB-F03-090,KMB-F03-093,KMB-F03-092,KMB-F03-095,KMB-F03-094,KMB-F03-097,KMB-F03-096"
+            },
+            {
+                "premiseId": "42841",
+                "canDeviceNum": 29,
+                "canCodes": "KMB-F02-025,KMB-F02-024,KMB-F02-029,KMB-F02-028,KMB-F02-030,KMB-F02-034,KMB-F02-045,KMB-F02-033,KMB-F02-044,KMB-F02-023,KMB-F02-032,KMB-F02-031,KMB-F02-038,KMB-F02-037,KMB-F02-043,KMB-F02-022,KMB-F02-021,KMB-F02-036,KMB-F02-035,KMB-F02-039,KMB-F02-042,KMB-F02-020,KMB-F02-048,KMB-F02-027,KMB-F02-041,KMB-F02-040,KMB-F02-047,KMB-F02-026,KMB-F02-046"
+            },
+            {
+                "premiseId": "42846",
+                "canDeviceNum": 24,
+                "canCodes": "KMB-F04-084,KMB-F04-065,KMB-F04-064,KMB-F04-063,KMB-F04-062,KMB-F04-083,KMB-F04-082,KMB-F04-076,KMB-F04-081,KMB-F04-075,KMB-F04-080,KMB-F04-079,KMB-F04-074,KMB-F04-078,KMB-F04-077,KMB-F04-073,KMB-F04-072,KMB-F04-071,KMB-F04-070,KMB-F04-069,KMB-F04-068,KMB-F04-067,KMB-F04-066,KMB-F04-085"
+            },
+            {
+                "premiseId": "42725",
+                "canDeviceNum": 13,
+                "canCodes": "KMB-A08-045,KMB-A08-036,KMB-A08-037,KMB-A08-038,KMB-A08-046,KMB-A08-039,KMB-A08-047,KMB-A08-040,KMB-A08-041,KMB-A08-042,KMB-A08-043,KMB-A08-044,KMB-A08-035"
+            },
+            {
+                "premiseId": "42847",
+                "canDeviceNum": 14,
+                "canCodes": "KMB-F05-004,KMB-F05-003,KMB-F05-005,KMB-F05-002,KMB-F05-001,KMB-F04-098,KMB-F04-097,KMB-F04-096,KMB-F04-095,KMB-F04-094,KMB-F04-093,KMB-F04-091,KMB-F04-090,KMB-F04-099"
+            },
+            {
+                "premiseId": "42848",
+                "canDeviceNum": 33,
+                "canCodes": "KMB-F02-016,KMB-F02-015,KMB-F02-014,KMB-F02-013,KMB-F02-019,KMB-F02-018,KMB-F02-017,KMB-F02-003,KMB-F02-002,KMB-F02-008,KMB-F02-007,KMB-F02-006,KMB-F02-012,KMB-F02-011,KMB-F02-010,KMB-F01-087,KMB-F01-089,KMB-F01-093,KMB-F01-092,KMB-F01-084,KMB-F01-086,KMB-F01-099,KMB-F01-098,KMB-F01-095,KMB-F01-085,KMB-F01-094,KMB-F01-097,KMB-F01-096,KMB-F02-001,KMB-F02-005,KMB-F02-004,KMB-F01-091,KMB-F01-090"
+            },
+            {
+                "premiseId": "42727",
+                "canDeviceNum": 24,
+                "canCodes": "KMB-B08-004,KMB-B08-003,KMB-B08-002,KMB-B08-001,KMB-B07-091,KMB-B07-083,KMB-B07-090,KMB-B07-086,KMB-B07-085,KMB-B07-088,KMB-B07-087,KMB-B07-095,KMB-B07-093,KMB-B08-007,KMB-B07-094,KMB-B07-092,KMB-B08-006,KMB-B08-005,KMB-B07-097,KMB-B07-096,KMB-B07-099,KMB-B07-098,KMB-B07-089,KMB-B07-084"
+            },
+            {
+                "premiseId": "42849",
+                "canDeviceNum": 22,
+                "canCodes": "KMB-F01-023,KMB-F01-020,KMB-F01-019,KMB-F01-018,KMB-F01-017,KMB-F01-037,KMB-F01-036,KMB-F01-038,KMB-F01-033,KMB-F01-029,KMB-F01-032,KMB-F01-026,KMB-F01-035,KMB-F01-034,KMB-F01-025,KMB-F01-031,KMB-F01-030,KMB-F01-028,KMB-F01-027,KMB-F01-022,KMB-F01-021,KMB-F01-024"
+            },
+            {
+                "premiseId": "42728",
+                "canDeviceNum": 39,
+                "canCodes": "KMB-B06-073,KMB-B06-099,KMB-B06-074,KMB-B06-083,KMB-B06-088,KMB-B06-089,KMB-B06-062,KMB-B07-001,KMB-B06-091,KMB-B06-092,KMB-B06-090,KMB-B06-064,KMB-B06-065,KMB-B06-097,KMB-B06-071,KMB-B06-086,KMB-B06-087,KMB-B06-063,KMB-B06-095,KMB-B06-079,KMB-B06-098,KMB-B06-072,KMB-B06-068,KMB-B06-066,KMB-B06-067,KMB-B06-096,KMB-B06-080,KMB-B06-077,KMB-B06-069,KMB-B06-093,KMB-B06-081,KMB-B06-078,KMB-B06-075,KMB-B06-070,KMB-B06-094,KMB-B06-084,KMB-B06-076,KMB-B06-085,KMB-B06-082"
+            },
+            {
+                "premiseId": "42842",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-F01-070,KMB-F01-061,KMB-F01-064,KMB-F01-069,KMB-F01-063,KMB-F01-059,KMB-F01-058,KMB-F01-060,KMB-F01-055,KMB-F01-066,KMB-F01-065,KMB-F01-056,KMB-F01-054,KMB-F01-057,KMB-F01-068,KMB-F01-067,KMB-F01-062,KMB-F01-053,KMB-F01-052,KMB-F01-071"
+            },
+            {
+                "premiseId": "42843",
+                "canDeviceNum": 36,
+                "canCodes": "KMB-F03-039,KMB-F03-038,KMB-F03-051,KMB-F03-050,KMB-F03-053,KMB-F03-052,KMB-F03-055,KMB-F03-054,KMB-F03-042,KMB-F03-041,KMB-F03-044,KMB-F03-043,KMB-F03-064,KMB-F03-035,KMB-F03-034,KMB-F03-063,KMB-F03-046,KMB-F03-037,KMB-F03-036,KMB-F03-065,KMB-F03-057,KMB-F03-045,KMB-F03-048,KMB-F03-056,KMB-F03-047,KMB-F03-031,KMB-F03-030,KMB-F03-059,KMB-F03-058,KMB-F03-049,KMB-F03-033,KMB-F03-032,KMB-F03-040,KMB-F03-060,KMB-F03-062,KMB-F03-061"
+            },
+            {
+                "premiseId": "42844",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-F01-011,KMB-F01-005,KMB-F01-002,KMB-F01-001,KMB-F01-010,KMB-F01-012,KMB-F01-008,KMB-F01-007,KMB-F01-009,KMB-F01-004,KMB-F01-003,KMB-F01-006"
+            },
+            {
+                "premiseId": "42724",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-A08-024,KMB-A08-025,KMB-A08-026,KMB-A08-027,KMB-A08-028,KMB-A08-029,KMB-A08-034,KMB-A12-060,KMB-A08-030,KMB-A08-031,KMB-A08-032,KMB-A08-033"
+            },
+            {
+                "premiseId": "42845",
+                "canDeviceNum": 5,
+                "canCodes": "KMB-F01-051,KMB-F01-050,KMB-F01-048,KMB-F01-047,KMB-F01-049"
+            },
+            {
+                "premiseId": "42839",
+                "canDeviceNum": 12,
+                "canCodes": "KMB-F04-033,KMB-F04-041,KMB-F04-040,KMB-F04-039,KMB-F04-038,KMB-F04-032,KMB-F04-037,KMB-F04-036,KMB-F04-035,KMB-F04-034,KMB-F04-031,KMB-F04-030"
+            },
+            {
+                "premiseId": "42398",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-B01-015,KMB-B01-016,KMB-B01-017,KMB-B01-010,KMB-B01-011,KMB-B01-012,KMB-B01-013,KMB-B01-008,KMB-B01-009,KMB-B01-020,KMB-B01-003,KMB-B01-018,KMB-B01-007,KMB-B01-004,KMB-B01-005,KMB-B01-019,KMB-B01-006,KMB-B01-001,KMB-B01-002,KMB-B01-014"
+            },
+            {
+                "premiseId": "42399",
+                "canDeviceNum": 49,
+                "canCodes": "KMB-C02-055,KMB-C02-046,KMB-C02-062,KMB-C02-031,KMB-C02-047,KMB-C02-063,KMB-C02-024,KMB-C02-025,KMB-C02-026,KMB-C02-056,KMB-C02-032,KMB-C02-050,KMB-C02-057,KMB-C02-064,KMB-C02-058,KMB-C02-059,KMB-C02-048,KMB-C02-049,KMB-C02-038,KMB-C02-039,KMB-C02-022-34,KMB-C02-033,KMB-C02-034,KMB-C02-051,KMB-C02-052,KMB-C02-065,KMB-C02-060,KMB-C02-028,KMB-C02-029,KMB-C02-035,KMB-C02-066,KMB-C02-053,KMB-C02-061,KMB-C02-040,KMB-C02-041,KMB-C02-036,KMB-C02-067,KMB-C02-068,KMB-C02-054,KMB-C02-021,KMB-C02-042,KMB-C02-043,KMB-C02-044,KMB-C02-037,KMB-C02-027,KMB-C02-030,KMB-C02-022,KMB-C02-023,KMB-C02-045"
+            },
+            {
+                "premiseId": "42397",
+                "canDeviceNum": 40,
+                "canCodes": "KMB-C01-045,KMB-C01-059,KMB-C01-057,KMB-C01-058,KMB-C01-067,KMB-C01-062,KMB-C01-064,KMB-C01-065,KMB-C01-042,KMB-C01-068,KMB-C01-043,KMB-C01-069,KMB-C01-048,KMB-C01-049,KMB-C01-063,KMB-C01-060,KMB-C01-061,KMB-C01-066,KMB-C01-040,KMB-C01-041,KMB-C01-044,KMB-C01-046,KMB-C01-047,KMB-C01-070,KMB-C01-079,KMB-C01-073,KMB-C01-074,KMB-C01-071,KMB-C01-072,KMB-C01-077,KMB-C01-078,KMB-C01-075,KMB-C01-076,KMB-C01-051,KMB-C01-052,KMB-C01-050,KMB-C01-055,KMB-C01-056,KMB-C01-053,KMB-C01-054"
+            },
+            {
+                "premiseId": "42835",
+                "canDeviceNum": 8,
+                "canCodes": "KMB-F01-040,KMB-F01-042,KMB-F01-041,KMB-F01-039,KMB-F01-044,KMB-F01-043,KMB-F01-046,KMB-F01-045"
+            },
+            {
+                "premiseId": "42836",
+                "canDeviceNum": 19,
+                "canCodes": "KMB-F04-010,KMB-F04-009,KMB-F04-008,KMB-F04-007,KMB-F04-015,KMB-F04-014,KMB-F04-006,KMB-F04-013,KMB-F04-005,KMB-F04-012,KMB-F04-011,KMB-F04-023,KMB-F04-022,KMB-F04-021,KMB-F04-020,KMB-F04-019,KMB-F04-018,KMB-F04-017,KMB-F04-016"
+            },
+            {
+                "premiseId": "42838",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-F04-028,KMB-F04-027,KMB-F04-026,KMB-F04-025,KMB-F04-024,KMB-F04-029"
+            },
+            {
+                "premiseId": "42710",
+                "canDeviceNum": 9,
+                "canCodes": "KMB-A06-077,KMB-A06-078,KMB-A06-072,KMB-A06-073,KMB-A06-074,KMB-A06-075,KMB-A06-080,KMB-A06-081,KMB-A06-076"
+            },
+            {
+                "premiseId": "42711",
+                "canDeviceNum": 17,
+                "canCodes": "KMB-B07-047,KMB-B07-049,KMB-B07-040,KMB-B07-042,KMB-B07-041,KMB-B07-044,KMB-B07-043,KMB-B07-050,KMB-B07-053,KMB-B07-052,KMB-B07-055,KMB-B07-056,KMB-B07-054,KMB-B07-051,KMB-B07-046,KMB-B07-045,KMB-B07-048"
+            },
+            {
+                "premiseId": "42712",
+                "canDeviceNum": 34,
+                "canCodes": "KMB-A07-096,KMB-A07-093,KMB-A07-094,KMB-A07-099,KMB-A07-097,KMB-A07-098,KMB-A07-091,KMB-A07-092,KMB-A07-095,KMB-A07-084,KMB-A07-085,KMB-A07-082,KMB-A07-083,KMB-A07-088,KMB-A07-089,KMB-A07-086,KMB-A07-087,KMB-A07-090,KMB-A07-073,KMB-A08-007,KMB-A07-080,KMB-A07-074,KMB-A07-081,KMB-A08-001,KMB-A08-002,KMB-A07-077,KMB-A08-003,KMB-A08-004,KMB-A08-005,KMB-A08-006,KMB-A07-078,KMB-A07-075,KMB-A07-076,KMB-A07-079"
+            },
+            {
+                "premiseId": "42713",
+                "canDeviceNum": 26,
+                "canCodes": "KMB-B07-028,KMB-B07-027,KMB-B07-029,KMB-B07-019,KMB-B07-020,KMB-B07-018,KMB-B07-035,KMB-B07-034,KMB-B07-037,KMB-B07-022,KMB-B07-036,KMB-B07-021,KMB-B07-015,KMB-B07-031,KMB-B07-030,KMB-B07-033,KMB-B07-032,KMB-B07-024,KMB-B07-023,KMB-B07-026,KMB-B07-025,KMB-B07-039,KMB-B07-014,KMB-B07-017,KMB-B07-038,KMB-B07-016"
+            },
+            {
+                "premiseId": "42708",
+                "canDeviceNum": 4,
+                "canCodes": "KMB-B07-059,KMB-B07-058,KMB-B07-060,KMB-B07-057"
+            },
+            {
+                "premiseId": "42709",
+                "canDeviceNum": 19,
+                "canCodes": "KMB-B07-064,KMB-B07-066,KMB-B07-077,KMB-B07-065,KMB-B07-079,KMB-B07-076,KMB-B07-080,KMB-B07-082,KMB-B07-078,KMB-B07-068,KMB-B07-067,KMB-B07-081,KMB-B07-071,KMB-B07-069,KMB-B07-070,KMB-B07-073,KMB-B07-072,KMB-B07-075,KMB-B07-074"
+            },
+            {
+                "premiseId": "42391",
+                "canDeviceNum": 0,
+                "canCodes": ""
+            },
+            {
+                "premiseId": "42497",
+                "canDeviceNum": 43,
+                "canCodes": "KMB-D04-052,KMB-D04-051,KMB-D04-050,KMB-D04-056,KMB-D04-055,KMB-D04-054,KMB-D04-053,KMB-D04-049,KMB-D04-085,KMB-D04-084,KMB-D04-070,KMB-D04-048,KMB-D04-083,KMB-D04-082,KMB-D04-088,KMB-D04-087,KMB-D04-074,KMB-D04-047,KMB-D04-046,KMB-D04-086,KMB-D04-079,KMB-D04-078,KMB-D04-077,KMB-D04-073,KMB-D04-072,KMB-D04-071,KMB-D04-063,KMB-D04-062,KMB-D04-061,KMB-D04-060,KMB-D04-067,KMB-D04-076,KMB-D04-075,KMB-D04-069,KMB-D04-068,KMB-D04-081,KMB-D04-080,KMB-D04-066,KMB-D04-065,KMB-D04-064,KMB-D04-059,KMB-D04-058,KMB-D04-057"
+            },
+            {
+                "premiseId": "42498",
+                "canDeviceNum": 11,
+                "canCodes": "KMB-B04-091,KMB-B04-092,KMB-B04-090,KMB-B04-099,KMB-B04-097,KMB-B04-098,KMB-B04-095,KMB-B05-001,KMB-B04-096,KMB-B04-093,KMB-B04-094"
+            },
+            {
+                "premiseId": "42499",
+                "canDeviceNum": 15,
+                "canCodes": "KMB-B05-003,KMB-B05-004,KMB-B05-005,KMB-B05-010,KMB-B05-011,KMB-B05-012,KMB-B05-006,KMB-B05-014,KMB-B05-013,KMB-B05-007,KMB-B05-008,KMB-B05-015,KMB-B05-016,KMB-B05-017,KMB-B05-009"
+            },
+            {
+                "premiseId": "42493",
+                "canDeviceNum": 2,
+                "canCodes": "KMB-B04-002,KMB-B04-003"
+            },
+            {
+                "premiseId": "42494",
+                "canDeviceNum": 3,
+                "canCodes": "KMB-B04-006,KMB-B04-004,KMB-B04-005"
+            },
+            {
+                "premiseId": "42496",
+                "canDeviceNum": 21,
+                "canCodes": "KMB-B03-014,KMB-B03-029,KMB-B03-020,KMB-B03-016,KMB-B03-015,KMB-B03-009,KMB-B03-017,KMB-B03-018,KMB-B03-019,KMB-B03-010,KMB-B03-011,KMB-B03-012,KMB-B03-021,KMB-B03-022,KMB-B03-023,KMB-B03-027,KMB-B03-028,KMB-B03-013,KMB-B03-024,KMB-B03-025,KMB-B03-026"
+            },
+            {
+                "premiseId": "42927",
+                "canDeviceNum": 15,
+                "canCodes": "KMB-B09-069,KMB-B09-066,KMB-B09-074,KMB-B09-071,KMB-B09-070,KMB-B09-077,KMB-B09-076,KMB-B09-065,KMB-B09-068,KMB-B09-067,KMB-B09-073,KMB-B09-075,KMB-B09-062,KMB-B09-064,KMB-B09-063"
+            },
+            {
+                "premiseId": "42928",
+                "canDeviceNum": 20,
+                "canCodes": "KMB-F06-065,KMB-F06-069,KMB-F06-076,KMB-F06-068,KMB-F06-075,KMB-F06-084,KMB-F06-079,KMB-F06-073,KMB-F06-083,KMB-F06-070,KMB-F06-074,KMB-F06-072,KMB-F06-082,KMB-F06-078,KMB-F06-077,KMB-F06-071,KMB-F06-067,KMB-F06-066,KMB-F06-081,KMB-F06-080"
+            },
+            {
+                "premiseId": "42929",
+                "canDeviceNum": 15,
+                "canCodes": "KMB-C06-075,KMB-C06-074,KMB-C06-077,KMB-C06-076,KMB-C06-079,KMB-C06-085,KMB-C06-078,KMB-C06-082,KMB-C06-081,KMB-C06-087,KMB-C06-084,KMB-C06-083,KMB-C06-080,KMB-C06-073,KMB-C06-072"
+            },
+            {
+                "premiseId": "42490",
+                "canDeviceNum": 6,
+                "canCodes": "KMB-C03-049,KMB-C03-053,KMB-C03-054,KMB-C03-051,KMB-C03-052,KMB-C03-050"
+            }
+        ]
+    }
+}
